@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script>
+		var langcodes=new Array("en", "zh", "default")
+		var langredirects=new Array("./en/index.html", "./zh/index.html", "./en/index.html.html")
+
+		var languageinfo=navigator.language? navigator.language : navigator.userLanguage
+		var gotodefault=1
+
+		function redirectpage(dest){
+		if (window.location.replace)
+		window.location.replace(dest)
+		else
+		window.location=dest
+		}
+
+		for (i=0;i<langcodes.length-1;i++){
+		if (languageinfo.substr(0,2)==langcodes[i]){
+		redirectpage(langredirects[i])
+		gotodefault=0
+		break
+		}
+		}
+
+		if (gotodefault)
+		redirectpage(langredirects[langcodes.length-1])
+	</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Glocal: City & Estate Innovation | 高上：城市和地产的商业创新</title>
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+	
+<body style="margin:2em; max-width:750px; background-color:##F0F8FF; color:gray; font-size:1em;">
+  <div>
+  		<h1 id="logo" style="margin:0 1em .5em 0;">
+			<img src="./images/glocal_logo_c.png" width="200px" alt="Glocal 高上">
+		</h1>	
+  </div>
+  <div style="font-size:0.8em">
+    <p>Glocal is a business innovation consulting firm focusing on city and real estate. 
+    </p>
+	<p>高上(Glocal)是一家商业创新咨询机构，专注城市和地产领域的战略，设计，以及投资。
+	</p>
+  </div><br />
+  
+  <div style="font-size:1.2em;">
+    <p>It appears that you’re using an older browser. Glocal will work better for you if you upgrade your browser or switch to another browser. We recommend Chrome, Firefox, Safari, or IE (version 9.0 or above).
+	</p>
+	<p>看来你正在使用较早版本的浏览器。为了浏览效果，请更新浏览器，或者采用其他浏览器。我们建议你使用Chrome, 火狐, Safari, 或者IE（9.0或者更高版本）。
+	</p>
+  </div><br />
+<!--
+  <div style="font-size:1.2em; color:##708090;">
+    <p>Please choose the language that you want to use.</p>
+	<p>请选择你想使用的语言。</p>
+  </div>
+  <style type="text/css">
+	a:link {
+		color: #4169E1; text-decoration: none;
+	}
+	a:visited {
+		color: #4169E1; text-decoration: none;
+	}
+	a:hover {
+		color: #40E0D0; text-decoration: none;
+	}
+	a:active {
+		color: #0000FF; text-decoration: none;
+	}
+  </style>
+  <div style="font-size:1.2em; font-weight:bold;">
+    <a href="en/index.html">English</a> 
+	<a href="zh/index.html">中文</a> 
+  </div>
+-->
+</body>
+</html>
