@@ -1,0 +1,126 @@
+/* cut 1 */
+
+a:hover, form .required,
+	.page-template-template-blog-stream-php #content .item .item-header h1 a:hover,
+	.page-template-template-blog-stream-php #content .item.format-quote .item-header h1 a:hover, 
+	.page-template-template-blog-stream-php #content .item.format-quote .item-header cite a:hover,
+	.page-template-template-blog-classic-php #content .item.format-quote .item-header h1 a:hover, 
+	.page-template-template-blog-classic-php #content .item.format-quote .item-header cite a:hover, 
+	.home.blog #content .item.format-quote .item-header h1 a:hover, .home.blog #content .item.format-quote .item-header cite a:hover,
+	#filterlist li.current a,
+	.thb-single-work-overlay .thb-single-work-slideshow #thb-slideshow_prev:hover, .thb-single-work-overlay 
+	.thb-single-work-slideshow #thb-slideshow_next:hover,
+	.thb-single-work-overlay .thb-single-work-content a:hover,
+	.flex-direction-nav li a:hover 
+	{ color: #38a1d2;  } 
+	
+	.home #header, .woocommerce.archive #header,
+	#footer-stripe,
+	.single-post .thb-audio-wrapper,
+	.thb-navigation ul .current,
+	#page-links span,
+	.page-template-template-showcase-php #thb-home-slides .thb-home-slide .thb-home-slide-overlay,
+	.thb-home-slides-picture-overlay,
+	.page-template-template-blog-stream-php #content .item,
+	#thb-featuredimage-background .thb-featuredimage-background-overlay,
+	.thb-tagcloud a, .thb-tagcloud a:hover 
+	{ background-color: #38a1d2;  } 
+	
+	.thb-navigation ul .current,
+	#page-links span,
+	.thb-tagcloud a,
+	#comments li.bypostauthor .comment_leftcol img { border-color: #38a1d2;  } 
+	
+	::-webkit-selection { background-color: #38a1d2;  } 
+	
+	::-moz-selection { background-color: #38a1d2;  } 
+	
+	::selection { background-color: #38a1d2;  } 
+	
+	.woocommerce nav.woocommerce-pagination ul .current,
+	.woocommerce #content nav.woocommerce-pagination ul .current { border-color: #38a1d2;  } 
+	
+	.thb_mini_cart_wrapper .widget_shopping_cart_content .product_list_widget li a:hover,
+	.woocommerce .widget_shopping_cart_content .product_list_widget li a:hover,
+	.thb-product-numbers { color: #38a1d2;  } body { background-color: #f2f6f7;      } 
+	
+	.page-template-template-showcase-php .thb-banner h1 { 
+		font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 32px; line-height: 1.1; letter-spacing: -2px; font-weight: 900; font-style: normal; text-transform: none;  
+		} 
+	
+	.page-template-template-showcase-php .thb-banner .thb-paragraph { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 22px; line-height: 1.25; letter-spacing: 0px; font-weight: 300; font-style: normal; text-transform: none;  } 
+	#logo a { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 34px; line-height: 1; letter-spacing: -1px; font-weight: 900; font-style: normal; text-transform: uppercase; color: #fff;  } 
+	.main-navigation div ul > li a { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 18px; line-height: 1; letter-spacing: 0px; font-weight: 700; font-style: normal; text-transform: uppercase;  } 
+	#main-nav div ul > li a, #thb-cart-trigger, #nav-trigger { color: #fff;  } 
+	#main-nav div ul li ul > li a { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 14px; line-height: 1; letter-spacing: 0px; font-weight: 700; font-style: normal; text-transform: uppercase; color: #333;  } 
+	.pageheader h1 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 62px; line-height: 1.1; letter-spacing: -1px; font-weight: 900; font-style: normal; text-transform: uppercase;  } 
+	.pageheader h2 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 28px; line-height: 1.5; letter-spacing: 1pxpx; font-weight: 300; font-style: normal; text-transform: uppercase;  } 
+	body, #content .thb-text, .comment .comment_body { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 18px; line-height: 1.5; letter-spacing: 0px; font-weight: 300; font-style: normal; text-transform: none;  } 
+	.thb-text h1, .textwidget h1, .comment_body h1 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 48px; line-height: 1.1; letter-spacing: -2px; font-weight: 700; font-style: normal; text-transform: none;  } 
+	.thb-text h2, .textwidget h2, .comment_body h2 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 36px; line-height: 1.1; letter-spacing: -1px; font-weight: 700; font-style: normal; text-transform: uppercase;  } 
+	.thb-text h3, .textwidget h3, .comment_body h3 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 30px; line-height: 1.1; letter-spacing: -1px; font-weight: 700; font-style: normal; text-transform: uppercase;  } 
+	.thb-text h4, .textwidget h4, .comment_body h4 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 24px; line-height: 1.1; letter-spacing: 0px; font-weight: 700; font-style: normal; text-transform: none;  } 
+	.thb-text h5, .textwidget h5, .comment_body h5 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 18px; line-height: 1.4; letter-spacing: 0px; font-weight: 700; font-style: normal; text-transform: none;  } 
+	.thb-text h6, .textwidget h6, .comment_body h6 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 16px; line-height: 1.1; letter-spacing: 0px; font-weight: 700; font-style: normal; text-transform: none;  } 
+	.home.blog #content .item .item-header h1, .archive #content .item .item-header h1, .page-template-template-blog-classic-php #content .item .item-header h1 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 36px; line-height: 1.1; letter-spacing: -2px; font-weight: 900; font-style: normal; text-transform: none;  } 
+	.home.blog #content .item.format-quote .item-header h1, .archive #content .item.format-quote .item-header h1, .page-template-template-blog-classic-php #content .item.format-quote .item-header h1 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 36px; line-height: 1.1; letter-spacing: 0px; font-weight: 700; font-style: italic; text-transform: none;  } 
+	.home.blog #content .item .item-content, .archive #content .item .item-content, .page-template-template-blog-classic-php #content .item .item-content { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 16px; line-height: 1.5; letter-spacing: 0px; font-weight: 300; font-style: normal; text-transform: none;  } 
+	.home.blog #content .item.format-quote .item-header cite, .archive #content .item.format-quote .item-header cite, .page-template-template-blog-classic-php #content .item.format-quote .item-header cite, .home.blog #content .item .item-header .item-footer, .archive #content .item .item-header .item-footer, .page-template-template-blog-classic-php #content .item .item-header .item-footer { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 14px; line-height: 1.7; letter-spacing: 0px; font-weight: normal; font-style: normal; text-transform: uppercase;  } 
+	.page-template-template-blog-stream-php #content .item .item-header h1 a { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 22px; line-height: 1.1; letter-spacing: -1px; font-weight: 900; font-style: normal; text-transform: none;  } 
+	.page-template-template-blog-stream-php #content .item.format-quote .item-wrapper .item-header h1 a { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 22px; line-height: 1.1; letter-spacing: 0px; font-weight: 700; font-style: italic; text-transform: none;  } 
+	.page-template-template-blog-stream-php #content .item .text { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 14px; line-height: 1.5; letter-spacing: 0px; font-weight: 300; font-style: normal; text-transform: none;  } 
+	.page-template-template-blog-stream-php #content .item.format-quote .item-header cite, .page-template-template-blog-stream-php #content .item.format-link .linkurl, .page-template-template-blog-stream-php #content .item .item-header .pubdate { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 14px; line-height: 1.1; letter-spacing: 0px; font-weight: normal; font-style: normal; text-transform: uppercase;  } 
+	.page-template-template-portfolio-php .item .data h1 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 18px; line-height: 1.1; letter-spacing: -1px; font-weight: 900; font-style: normal; text-transform: none;  } 
+	.page-template-template-portfolio-php .item .data h2 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 14px; line-height: 1.1; letter-spacing: 0px; font-weight: normal; font-style: normal; text-transform: uppercase;  } 
+	.thb-single-work-overlay .thb-single-work-title { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 24px; line-height: 1.1; letter-spacing: -1px; font-weight: 900; font-style: normal; text-transform: uppercase;  } 
+	.widget .widgettitle { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 20px; line-height: 1.5; letter-spacing: 0px; font-weight: 900; font-style: normal; text-transform: uppercase;  } 
+	#thb-sidebar-main .thb-shortcode .list .item .item-title h1 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 16px; line-height: 1.1; letter-spacing: 0px; font-weight: 600; font-style: normal; text-transform: none;  } 
+	.sidebar .widget { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 16px; line-height: 1.5; letter-spacing: 0px; font-weight: 300; font-style: normal; text-transform: none;  } 
+	#footer { background-color: #2e3339;  } 
+	#page-footer .widget .widgettitle { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 20px; line-height: 1.5; letter-spacing: 0px; font-weight: 900; font-style: normal; text-transform: uppercase;  } 
+	#page-footer .thb-shortcode .list .item .item-title h1 { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 16px; line-height: 1.25; letter-spacing: 0px; font-weight: 600; font-style: normal; text-transform: none;  } 
+	#page-footer .sidebar .widget { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 16px; line-height: 1.5; letter-spacing: 0px; font-weight: 300; font-style: normal; text-transform: none;  } 
+	#footerlogo { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 14px; line-height: 1; letter-spacing: 0px; font-weight: 700; font-style: normal; text-transform: none;  } 
+	#footerlogo, .gotop { color: #ccc;  } 
+	#footerlogo:hover, .gotop:hover { color: #fff;  } 
+	#copyright { font-family: 'Arial','Heiti SC','Microsoft Yahei',simsun,sans-serif; font-size: 14px; line-height: 1; letter-spacing: 0px; font-weight: normal; font-style: normal; text-transform: none; color: #999;  } 
+	.thb-overlay {background: #38a1d2;background: rgba(56,161,210, .6);}
+	body.page-template-template-home-php { background-color: #2e3339; }
+	
+/* cut 2 */
+/* selection */
+ 
+html.clearly_highlighting_enabled ::-moz-selection { background: rgba(246, 238, 150, 0.99); } 
+html.clearly_highlighting_enabled ::selection { background: rgba(246, 238, 150, 0.99); } 
+/* cursor */ 
+html.clearly_highlighting_enabled {    /* cursor and hot-spot position -- requires a default cursor, after the URL one */    cursor: url("chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/clearly/images/highlight--cursor.png") 14 16, text; } 
+/* highlight tag */ 
+em.clearly_highlight_element {    font-style: inherit !important; font-weight: inherit !important;    background-image: url("chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/clearly/images/highlight--yellow.png");    background-repeat: repeat-x; background-position: top left; background-size: 100% 100%; } 
+
+/* the delete-buttons are positioned relative to this */ 
+em.clearly_highlight_element.clearly_highlight_first { position: relative; } 
+
+/* delete buttons */ 
+em.clearly_highlight_element a.clearly_highlight_delete_element {    display: none; cursor: pointer;    padding: 0; margin: 0; line-height: 0;    position: absolute; width: 34px; height: 34px; left: -17px; top: -17px;    background-image: url("chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/clearly/images/highlight--delete-sprite.png"); background-repeat: no-repeat; background-position: 0px 0px; } 
+
+em.clearly_highlight_element a.clearly_highlight_delete_element:hover { background-position: -34px 0px; } 
+
+/* retina */ 
+@media (min--moz-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2), (min-device-pixel-ratio: 2) 
+{    em.clearly_highlight_element { background-image: url("chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/clearly/images/highlight--yellow@2x.png"); }    em.clearly_highlight_element a.clearly_highlight_delete_element { background-image: url("chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/clearly/images/highlight--delete-sprite@2x.png"); background-size: 68px 34px; } 
+} 
+
+/* cut 3 */
+[touch-action="none"]{ -ms-touch-action: none; touch-action: none; }[touch-action="pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; }[touch-action="pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; }[touch-action="scroll"],[touch-action="pan-x pan-y"],[touch-action="pan-y pan-x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; }
+
+/* other cut */
+
+/*
+				@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+					#logo {
+					background-image: url('');
+					background-size: 148px, 36px;
+					}
+					#logo img { visibility: hidden; }
+				}
+*/ 
